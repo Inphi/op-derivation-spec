@@ -1,0 +1,6 @@
+name = "DerivationSpec"
+version = "0.1.0"
+defaultTargets = ["DerivationSpec"]
+
+[[lean_lib]]
+name = "DerivationSpec"
